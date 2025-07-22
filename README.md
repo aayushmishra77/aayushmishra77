@@ -1,6 +1,8 @@
 # The best products are the ones anyone can use, not just the experts.
 ## Hi there 👋
 
+Welcome to my GitHub profile! I'm Aayush, a passionate full-stack developer who believes in building products that are simple, scalable, and accessible to everyone — not just the experts.
+
 <!--
 **aayushmishra77/aayushmishra77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Tech Stack
+<hr>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
